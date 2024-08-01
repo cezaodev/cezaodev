@@ -15,3 +15,11 @@
 [![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]
 <br><br>
 “Explorar tecnologias é como decifrar os enigmas do universo digital, revelando segredos que moldam nosso mundo.” 
+<br><br>
+### Tambem sei
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)]
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]
+[![Adobe Premiere PRO](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)]<br><br>
+Trabalhei por um tempo como gestor de trafego de pequenas empresas, e como eu estava começando, fazia de tudo um pouco para poder absorver o maximo de conteudo possi, e foi assim que começei a me apaixonar por programação. <br>
+Algumas tecnologias e plataformas que ue sei utilizar por conta desse perioso, são: Email marketing com lead lover, Googles ads, Meta ads, tiktok ads, Estrategias de topo, medio e fundo de funil, Copy, Designer grafico, Editor de videoa e afins...
